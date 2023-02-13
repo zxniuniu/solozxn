@@ -306,7 +306,7 @@ window.Util = {
   loadVditor: function (cb) {
     $.ajax({
       method: 'GET',
-      url: 'https://fastly.jsdelivr.net/gh/zxniuniu/solozxn/src/main/resources/js/vditor/dist/index.min.js', // url: 'https://fastly.jsdelivr.net/npm/vditor@3.9.0/dist/index.min.js',
+      url: 'https://fastly.jsdelivr.net/gh/zxniuniu/solozxn/src/main/resources/js/vditor/dist/index.min.js',
       dataType: 'script',
       cache: true,
       success: () => {
