@@ -126,7 +126,7 @@
 ### 修复缺陷
 
 * [生成静态站点的分类分页 404](https://github.com/88250/solo/issues/86)
-* [采用 cdn.jsdelivr.net 加速后访问文章详情页面 js 报错](https://github.com/88250/solo/issues/100)
+* [采用 fastly.jsdelivr.net 加速后访问文章详情页面 js 报错](https://github.com/88250/solo/issues/100)
 * [图床上传相同图片后第二幅显示不出来](https://github.com/88250/solo/issues/101)
 * [更新文章编辑器加载报错](https://github.com/88250/solo/issues/106)
 * [后台 footer 遮挡 菜单栏](https://github.com/88250/solo/issues/108)

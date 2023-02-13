@@ -27,7 +27,7 @@
 <div id="allPanel">
     <div id="top">
         <a href="${servePath}" target="_blank" class="hover">
-            Solo
+            随心笔客
         </a>
         <span class="icon-unordered-list top__menu fn__none"
               onclick="admin.toggleMenu()"></span>
@@ -120,6 +120,11 @@
                         </div>
                     </li>
                     <li>
+                        <div>
+                            <a href="${servePath}/verynginx/index_zh.html" target="_blank">流量监测</a>
+                        </div>
+                    </li>
+                    <li>
                         <div id="tabs_others">
                             <a href="#tools/others/tag">${othersLabel}</a>
                         </div>
@@ -160,7 +165,7 @@
     </div>
 </div>
 <#include "admin-label.ftl">
-<script src="https://unpkg.com/vditor@3.8.15/dist/index.min.js"></script>
+<!--<script src="https://fastly.jsdelivr.net/npm/vditor@3.9.0/dist/index.min.js"></script>--><script src="https://fastly.jsdelivr.net/gh/zxniuniu/solozxn/src/main/resources/js/vditor/dist/index.min.js"></script>
 <script src="${staticServePath}/js/admin/admin.min.js?${staticResourceVersion}"></script>
 ${plugins}
 <script>

@@ -96,5 +96,10 @@
     <include path="/plugins/**/*.moc"/>
     <include path="/plugins/**/*.mtn"/>
     <include path="/plugins/**/*.ogg"/>
-
+    <include path="/MP_verify_xGHijQBqB7g1uR39.txt"/>
+    <include path="/.well-known/pki-validation/fileauth.txt"/>
+    <include path="/favicon.ico"/>
+    <include path="/favicon.png"/>
+    <include path="/baidu_verify_7oL2vb9bx7.html"/>
+    
 </static-files>
