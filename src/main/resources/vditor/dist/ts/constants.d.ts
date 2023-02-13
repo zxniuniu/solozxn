@@ -9,7 +9,7 @@ export declare abstract class Constants {
     static readonly EDIT_TOOLBARS: string[];
     static readonly CODE_THEME: string[];
     static readonly CODE_LANGUAGES: string[];
-    static readonly CDN = "https://fastly.jsdelivr.net/gh/zxniuniu/solozxn/src/main/resources/vditor";
+    static readonly CDN = "https://fastly.jsdelivr.net/gh/zxniuniu/solozxn@3.9.0-1/src/main/resources/vditor";
     static readonly MARKDOWN_OPTIONS: {
         autoSpace: boolean;
         codeBlockPreview: boolean;
