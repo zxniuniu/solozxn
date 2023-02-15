@@ -165,7 +165,7 @@
     </div>
 </div>
 <#include "admin-label.ftl">
-<script src="https://fastly.jsdelivr.net/gh/zxniuniu/solozxn@3.9.0-1/src/main/resources/vditor/dist/index.min.js"></script>
+<script src="https://fastly.jsdelivr.net/gh/zxniuniu/vditor@latest/dist/index.min.js"></script>
 <script src="${staticServePath}/js/admin/admin.min.js?${staticResourceVersion}"></script>
 ${plugins}
 <script>
